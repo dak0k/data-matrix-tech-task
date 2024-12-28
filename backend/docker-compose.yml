@@ -1,0 +1,34 @@
+services:
+  backend:
+    image: ${DOCKER_REGISTRY-}backend
+    container_name: backend
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    ports:
+      - "8080:8080"
+      - "8081:8081"
+    networks:
+      - app-network
+    depends_on:
+      - database
+    entrypoint: >
+         sh -c "until pg_isready -h database -p 5432; do echo 'Waiting for database...'; sleep 2; done; dotnet backend.dll"
+    
+  database:
+    image: postgres:latest
+    container_name: database
+    environment:
+      - POSTGRES_DB=OrderManagementDb
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    ports:
+      - "5432:5432" 
+    volumes:
+      - ./.containers/database:/var/lib/postgresql/data
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adaib\\Documents\\GitHub\\data-matrix-tech-task\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6586EFC2-5CFD-40C7-99AD-35194265B3FA}|backend\\backend.csproj|c:\\users\\adaib\\documents\\github\\data-matrix-tech-task\\backend\\backend\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6586EFC2-5CFD-40C7-99AD-35194265B3FA}|backend\\backend.csproj|solutionrelative:backend\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697DBB5C-731A-4B4E-9DD6-FE74283693D6}|backend.Application\\backend.Application.csproj|c:\\users\\adaib\\documents\\github\\data-matrix-tech-task\\backend\\backend.application\\orders\\commands\\deleteorder\\deleteordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697DBB5C-731A-4B4E-9DD6-FE74283693D6}|backend.Application\\backend.Application.csproj|solutionrelative:backend.application\\orders\\commands\\deleteorder\\deleteordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697DBB5C-731A-4B4E-9DD6-FE74283693D6}|backend.Application\\backend.Application.csproj|c:\\users\\adaib\\documents\\github\\data-matrix-tech-task\\backend\\backend.application\\orders\\commands\\updateorder\\updateordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697DBB5C-731A-4B4E-9DD6-FE74283693D6}|backend.Application\\backend.Application.csproj|solutionrelative:backend.application\\orders\\commands\\updateorder\\updateordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697DBB5C-731A-4B4E-9DD6-FE74283693D6}|backend.Application\\backend.Application.csproj|c:\\users\\adaib\\documents\\github\\data-matrix-tech-task\\backend\\backend.application\\orders\\commands\\createorder\\createordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697DBB5C-731A-4B4E-9DD6-FE74283693D6}|backend.Application\\backend.Application.csproj|solutionrelative:backend.application\\orders\\commands\\createorder\\createordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697DBB5C-731A-4B4E-9DD6-FE74283693D6}|backend.Application\\backend.Application.csproj|c:\\users\\adaib\\documents\\github\\data-matrix-tech-task\\backend\\backend.application\\orders\\queries\\getorders\\getordersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697DBB5C-731A-4B4E-9DD6-FE74283693D6}|backend.Application\\backend.Application.csproj|solutionrelative:backend.application\\orders\\queries\\getorders\\getordersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697DBB5C-731A-4B4E-9DD6-FE74283693D6}|backend.Application\\backend.Application.csproj|c:\\users\\adaib\\documents\\github\\data-matrix-tech-task\\backend\\backend.application\\common\\models\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697DBB5C-731A-4B4E-9DD6-FE74283693D6}|backend.Application\\backend.Application.csproj|solutionrelative:backend.application\\common\\models\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6586EFC2-5CFD-40C7-99AD-35194265B3FA}|backend\\backend.csproj|c:\\users\\adaib\\documents\\github\\data-matrix-tech-task\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6586EFC2-5CFD-40C7-99AD-35194265B3FA}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697DBB5C-731A-4B4E-9DD6-FE74283693D6}|backend.Application\\backend.Application.csproj|c:\\users\\adaib\\documents\\github\\data-matrix-tech-task\\backend\\backend.application\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697DBB5C-731A-4B4E-9DD6-FE74283693D6}|backend.Application\\backend.Application.csproj|solutionrelative:backend.application\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateOrderCommand.cs",
+              "DocumentMoniker": "C:\\Users\\adaib\\Documents\\GitHub\\data-matrix-tech-task\\backend\\backend.Application\\Orders\\Commands\\UpdateOrder\\UpdateOrderCommand.cs",
+              "RelativeDocumentMoniker": "backend.Application\\Orders\\Commands\\UpdateOrder\\UpdateOrderCommand.cs",
+              "ToolTip": "C:\\Users\\adaib\\Documents\\GitHub\\data-matrix-tech-task\\backend\\backend.Application\\Orders\\Commands\\UpdateOrder\\UpdateOrderCommand.cs",
+              "RelativeToolTip": "backend.Application\\Orders\\Commands\\UpdateOrder\\UpdateOrderCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T12:24:00.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteOrderCommand.cs",
+              "DocumentMoniker": "C:\\Users\\adaib\\Documents\\GitHub\\data-matrix-tech-task\\backend\\backend.Application\\Orders\\Commands\\DeleteOrder\\DeleteOrderCommand.cs",
+              "RelativeDocumentMoniker": "backend.Application\\Orders\\Commands\\DeleteOrder\\DeleteOrderCommand.cs",
+              "ToolTip": "C:\\Users\\adaib\\Documents\\GitHub\\data-matrix-tech-task\\backend\\backend.Application\\Orders\\Commands\\DeleteOrder\\DeleteOrderCommand.cs",
+              "RelativeToolTip": "backend.Application\\Orders\\Commands\\DeleteOrder\\DeleteOrderCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T12:23:30.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateOrderCommand.cs",
+              "DocumentMoniker": "C:\\Users\\adaib\\Documents\\GitHub\\data-matrix-tech-task\\backend\\backend.Application\\Orders\\Commands\\CreateOrder\\CreateOrderCommand.cs",
+              "RelativeDocumentMoniker": "backend.Application\\Orders\\Commands\\CreateOrder\\CreateOrderCommand.cs",
+              "ToolTip": "C:\\Users\\adaib\\Documents\\GitHub\\data-matrix-tech-task\\backend\\backend.Application\\Orders\\Commands\\CreateOrder\\CreateOrderCommand.cs",
+              "RelativeToolTip": "backend.Application\\Orders\\Commands\\CreateOrder\\CreateOrderCommand.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T12:21:11.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\adaib\\Documents\\GitHub\\data-matrix-tech-task\\backend\\backend\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\adaib\\Documents\\GitHub\\data-matrix-tech-task\\backend\\backend\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "backend\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswDQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T12:19:06.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaginatedList.cs",
+              "DocumentMoniker": "C:\\Users\\adaib\\Documents\\GitHub\\data-matrix-tech-task\\backend\\backend.Application\\Common\\Models\\PaginatedList.cs",
+              "RelativeDocumentMoniker": "backend.Application\\Common\\Models\\PaginatedList.cs",
+              "ToolTip": "C:\\Users\\adaib\\Documents\\GitHub\\data-matrix-tech-task\\backend\\backend.Application\\Common\\Models\\PaginatedList.cs",
+              "RelativeToolTip": "backend.Application\\Common\\Models\\PaginatedList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T12:02:45.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetOrdersQuery.cs",
+              "DocumentMoniker": "C:\\Users\\adaib\\Documents\\GitHub\\data-matrix-tech-task\\backend\\backend.Application\\Orders\\Queries\\GetOrders\\GetOrdersQuery.cs",
+              "RelativeDocumentMoniker": "backend.Application\\Orders\\Queries\\GetOrders\\GetOrdersQuery.cs",
+              "ToolTip": "C:\\Users\\adaib\\Documents\\GitHub\\data-matrix-tech-task\\backend\\backend.Application\\Orders\\Queries\\GetOrders\\GetOrdersQuery.cs",
+              "RelativeToolTip": "backend.Application\\Orders\\Queries\\GetOrders\\GetOrdersQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T11:48:54.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adaib\\Documents\\GitHub\\data-matrix-tech-task\\backend\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Program.cs",
+              "ToolTip": "C:\\Users\\adaib\\Documents\\GitHub\\data-matrix-tech-task\\backend\\backend\\Program.cs",
+              "RelativeToolTip": "backend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T11:45:05.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConfigureServices.cs",
+              "DocumentMoniker": "C:\\Users\\adaib\\Documents\\GitHub\\data-matrix-tech-task\\backend\\backend.Application\\ConfigureServices.cs",
+              "RelativeDocumentMoniker": "backend.Application\\ConfigureServices.cs",
+              "ToolTip": "C:\\Users\\adaib\\Documents\\GitHub\\data-matrix-tech-task\\backend\\backend.Application\\ConfigureServices.cs",
+              "RelativeToolTip": "backend.Application\\ConfigureServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T11:35:35.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
