@@ -23,7 +23,8 @@
 <ul>
     <li>Navigate to the <code>/frontend</code> directory.</li>
     <li>Open the folder in the terminal or console.</li>
-    <li>Run the frontend by executing the following command:<br>
+    <li>Run the frontend by executing the following commands:<br>
+        <code>npm install</code>
         <code>npx nx serve frontend</code>
     </li>
     <li>
