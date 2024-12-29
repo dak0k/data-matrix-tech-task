@@ -2,7 +2,6 @@ C:\Users\adaib\Documents\GitHub\data-matrix-tech-task\backend\bin\Debug\backend.
 C:\Users\adaib\Documents\GitHub\data-matrix-tech-task\backend\bin\Debug\backend.runtimeconfig.json
 C:\Users\adaib\Documents\GitHub\data-matrix-tech-task\backend\bin\Debug\appsettings.Development.json
 C:\Users\adaib\Documents\GitHub\data-matrix-tech-task\backend\bin\Debug\appsettings.json
-C:\Users\adaib\Documents\GitHub\data-matrix-tech-task\backend\bin\Debug\backend.staticwebassets.endpoints.json
 C:\Users\adaib\Documents\GitHub\data-matrix-tech-task\backend\bin\Debug\backend.exe
 C:\Users\adaib\Documents\GitHub\data-matrix-tech-task\backend\bin\Debug\backend.dll
 C:\Users\adaib\Documents\GitHub\data-matrix-tech-task\backend\bin\Debug\Microsoft.EntityFrameworkCore.dll

@@ -1,6 +1,5 @@
 C:\Users\adaib\Documents\GitHub\data-matrix-tech-task\backend\backend\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\adaib\Documents\GitHub\data-matrix-tech-task\backend\backend\bin\Debug\net8.0\appsettings.json
-C:\Users\adaib\Documents\GitHub\data-matrix-tech-task\backend\backend\bin\Debug\net8.0\backend.staticwebassets.endpoints.json
 C:\Users\adaib\Documents\GitHub\data-matrix-tech-task\backend\backend\bin\Debug\net8.0\backend.exe
 C:\Users\adaib\Documents\GitHub\data-matrix-tech-task\backend\backend\bin\Debug\net8.0\backend.deps.json
 C:\Users\adaib\Documents\GitHub\data-matrix-tech-task\backend\backend\bin\Debug\net8.0\backend.runtimeconfig.json
@@ -44,14 +43,11 @@ C:\Users\adaib\Documents\GitHub\data-matrix-tech-task\backend\backend\obj\Debug\
 C:\Users\adaib\Documents\GitHub\data-matrix-tech-task\backend\backend\obj\Debug\net8.0\scopedcss\bundle\backend.styles.css
 C:\Users\adaib\Documents\GitHub\data-matrix-tech-task\backend\backend\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\adaib\Documents\GitHub\data-matrix-tech-task\backend\backend\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\adaib\Documents\GitHub\data-matrix-tech-task\backend\backend\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 C:\Users\adaib\Documents\GitHub\data-matrix-tech-task\backend\backend\obj\Debug\net8.0\staticwebassets\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\adaib\Documents\GitHub\data-matrix-tech-task\backend\backend\obj\Debug\net8.0\staticwebassets\msbuild.backend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
 C:\Users\adaib\Documents\GitHub\data-matrix-tech-task\backend\backend\obj\Debug\net8.0\staticwebassets\msbuild.build.backend.props
 C:\Users\adaib\Documents\GitHub\data-matrix-tech-task\backend\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.backend.props
 C:\Users\adaib\Documents\GitHub\data-matrix-tech-task\backend\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.backend.props
 C:\Users\adaib\Documents\GitHub\data-matrix-tech-task\backend\backend\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\adaib\Documents\GitHub\data-matrix-tech-task\backend\backend\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\adaib\Documents\GitHub\data-matrix-tech-task\backend\backend\obj\Debug\net8.0\backend.csproj.Up2Date
 C:\Users\adaib\Documents\GitHub\data-matrix-tech-task\backend\backend\obj\Debug\net8.0\backend.dll
 C:\Users\adaib\Documents\GitHub\data-matrix-tech-task\backend\backend\obj\Debug\net8.0\refint\backend.dll

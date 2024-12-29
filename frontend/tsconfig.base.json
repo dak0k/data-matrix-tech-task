@@ -14,7 +14,20 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@frontend/data-access": ["libs/core/data-access/src/index.ts"],
+      "@frontend/feature-orders-create": [
+        "libs/users/orders/feature-orders-create/src/index.ts"
+      ],
+      "@frontend/feature-orders-list": [
+        "libs/users/orders/feature-orders-list/src/index.ts"
+      ],
+      "@frontend/http": ["libs/core/http/src/index.ts"],
+      "@frontend/orders": ["libs/users/orders/src/index.ts"],
+      "@frontend/orders-data-access": [
+        "libs/users/orders/orders-data-access/src/index.ts"
+      ]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
