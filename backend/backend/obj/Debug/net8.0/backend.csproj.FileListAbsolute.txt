@@ -145,3 +145,7 @@ C:\Users\adaib\Documents\GitHub\data-matrix-tech-task\backend\backend\bin\Debug\
 C:\Users\adaib\Documents\GitHub\data-matrix-tech-task\backend\backend\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\adaib\Documents\GitHub\data-matrix-tech-task\backend\backend\bin\Debug\net8.0\FluentValidation.dll
 C:\Users\adaib\Documents\GitHub\data-matrix-tech-task\backend\backend\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\adaib\Documents\GitHub\data-matrix-tech-task\backend\backend\bin\Debug\net8.0\backend.staticwebassets.endpoints.json
+C:\Users\adaib\Documents\GitHub\data-matrix-tech-task\backend\backend\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\adaib\Documents\GitHub\data-matrix-tech-task\backend\backend\obj\Debug\net8.0\staticwebassets\msbuild.backend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\adaib\Documents\GitHub\data-matrix-tech-task\backend\backend\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

@@ -26,7 +26,8 @@
       "@frontend/orders": ["libs/users/orders/src/index.ts"],
       "@frontend/orders-data-access": [
         "libs/users/orders/orders-data-access/src/index.ts"
-      ]
+      ],
+      "@frontend/ui": ["libs/core/ui/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

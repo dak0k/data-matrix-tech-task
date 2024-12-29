@@ -12,7 +12,7 @@ export const loadOrders$ = createEffect(
     return actions$.pipe(
       ofType(OrdersActions.loadOrders),
       switchMap(() =>
-        apiService.get<OrderDTO[]>('/Order').pipe(
+        apiService.get<OrderDTO[]>('Order').pipe(
           map((orders) =>
             OrdersActions.loadOrdersSuccess({ orders })
           ),
@@ -35,7 +35,7 @@ export const deleteOrder = createEffect(
       ofType(OrdersActions.deleteOrder),
       tap(({ id }) => console.log('Delete order started with ID:', id)),
       switchMap(({ id }) =>
-        apiService.delete<void>(`/Order/${id}`).pipe(
+        apiService.delete<void>(`Order/${id}`).pipe(
           map(() => {
             console.log('Delete order succeeded for ID:', id);
             return OrdersActions.deleteOrderSuccess({ id });
@@ -59,7 +59,7 @@ export const addOrder = createEffect(
     return actions$.pipe(
       ofType(OrdersActions.addOrder),
       switchMap(({ order }) =>
-        apiService.post<OrderDTO, OrderCreate>('/Order', order).pipe(
+        apiService.post<OrderDTO, OrderCreate>('Order', order).pipe(
           map((newOrder) =>
             OrdersActions.addOrderSuccess({ order: newOrder })
           ),

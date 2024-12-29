@@ -1,0 +1,35 @@
+<ng-container
+  *ngrxLet="{
+        allOrders:orders$,
+        orderStatus: status$,
+    } as vm"
+>
+  <ng-container [ngSwitch]="vm.orderStatus">
+    <ng-container *ngSwitchCase="'loading'">
+      <mat-progress-bar color="accent" mode="indeterminate"></mat-progress-bar>
+    </ng-container>
+
+    <ng-container *ngSwitchCase="'error'">
+      <div class="alert alert-danger" rode="alert">
+        <h1>{{ vm.orderStatus }}</h1>
+      </div>
+    </ng-container>
+
+    <ng-container *ngSwitchCase="'loaded'">
+      <div class="loaded-header container">
+        <h1>Orders</h1>
+        <lib-feature-orders-add-button></lib-feature-orders-add-button>
+      </div>
+      <ng-container>
+        <lib-feature-orders-list
+          [orders]="vm.allOrders"
+          (deleteOrder)="deleteOrder($event)"
+        ></lib-feature-orders-list>
+
+
+      </ng-container>
+
+    </ng-container>
+
+  </ng-container>
+</ng-container>

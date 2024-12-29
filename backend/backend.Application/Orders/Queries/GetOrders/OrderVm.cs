@@ -17,7 +17,6 @@ namespace backend.Application.Orders.Queries.GetOrders
 
         public int Quantity { get; init; }
         public decimal UnitPrice { get; init; }
-        public decimal TotalPrice => Quantity * UnitPrice;
         private class Mapping : Profile
         {
             public Mapping()

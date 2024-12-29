@@ -1,0 +1,10 @@
+<h2 mat-dialog-title>Are you sure?</h2>
+<mat-dialog-content>{{ dialogText }}</mat-dialog-content>
+<mat-dialog-actions align="end">
+  <button class="button button-alert" (click)="confirm()" aria-label="Согласиться">
+    Delete
+  </button>
+  <button class="button " (click)="cancel()" aria-label="Отказаться">
+    Close
+  </button>
+</mat-dialog-actions>
